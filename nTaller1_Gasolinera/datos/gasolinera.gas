@@ -1,9 +1,13 @@
-tipo:corriente:14000:1000
-tipo:extra:21000:454.55
-surtidor:Lucas:corriente:55.7:extra:25.12
-surtidor:Mateo:corriente:33.14:extra:9
-surtidor:Mateo:corriente:14:extra:0
-surtidor:Neron:extra:99
-empleado:Lucas:125000
-empleado:Mateo:456456
-empleado:Neron:1300000
+tipo:Extra:17000:500.0
+tipo: Corriente:15891:130.0
+tipo:Premium:18985:230.0
+tipo:Diesel:14600:260.0
+surtidor:Juan Rincon:Extra:0.0: Corriente:0.0:Premium:0.0:Diesel:0.0
+surtidor:Tatiana Diaz:Extra:0.0: Corriente:0.0:Premium:0.0:Diesel:0.0
+surtidor:Alejandro Vargas:Extra:0.0: Corriente:0.0:Premium:0.0:Diesel:0.0
+surtidor:Juan Rincon:Extra:0.0: Corriente:0.0:Premium:0.0:Diesel:0.0
+empleado:Daniel Niño:0
+empleado:Nicolle Ruiz:0
+empleado:Juan Rincon:0
+empleado:Alejandro Vargas:0
+empleado:Tatiana Diaz:0
